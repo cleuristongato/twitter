@@ -1,0 +1,37 @@
+body{
+    background-color: aliceblue;
+}
+.container{
+    margin-top: -700px;
+    margin-left: 450px;
+    width: 50px;
+    position: fixed;
+}
+.nav-bar{
+    border: 70px coral;
+    margin-left: 550px;
+    margin-top: 50px;
+    display: grid;
+    width: 900px;
+}
+.materia{
+    margin-left: 620px;
+}
+.perfil{
+    margin-left: 600px;
+    width: 300px;
+    
+}
+img{
+    margin-left: 650px;
+    border-radius: 20px;
+    
+}
+.borda{
+    background-color: aquamarine;
+    border: 2px solid;
+    width: 900px;
+    margin-top: 100PX;
+    margin-left: 550PX;
+    
+}    
